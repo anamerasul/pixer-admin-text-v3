@@ -12,7 +12,7 @@ module.exports = withPWA({
     dest: 'public',
     runtimeCaching,
   },
-  basePath:'/admin',
+//   basePath:'/admin',
   images: {
     domains: [
       'kitstarter.io',
